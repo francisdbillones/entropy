@@ -1,0 +1,10 @@
+{
+    "dims": [
+        100,
+        100
+    ],
+    "hotspots": 1,
+    "sleep_interval_ms": 0,
+    "heat": 1.0,
+    "size_factor": 5
+}
